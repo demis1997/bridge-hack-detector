@@ -5,7 +5,7 @@ from datetime import datetime
 #NOTE: It may take up to 7 days for a transaction to go through, I did not add a limit of 7 days and this could trigger falsely due to delays on the smart contracts' side but I have not tested it and may not end up being the case
 
 
-API_KEY = "UX33KV3H6CNV4KEG3J2EWG6BY9E4WRVKKG"
+API_KEY = "my secret key"
 address = "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
 BASE_URL = "https://api.etherscan.io/api"
 OPT_BASE_URL = "https://api-optimistic.etherscan.io/api"
